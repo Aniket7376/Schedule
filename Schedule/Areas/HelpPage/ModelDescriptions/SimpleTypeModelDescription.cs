@@ -1,0 +1,6 @@
+namespace Schedule.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
